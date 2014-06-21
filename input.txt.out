@@ -1,0 +1,9 @@
+min_balloon_size = 5 ! * ! combo_box ! 1 | 5 | 10
+max_balloon_size = 10 ! * ! combo_box ! 1 | 5 | 10
+min_number_balloons = 10 ! * ! combo_box ! 1 | 5 | 10
+max_number_balloons = 30 ! * ! combo_box ! 10 | 20 | 30
+min_speed = 5 ! pixel/sec ! text_field ! *
+max_speed = 10 ! pixel/sec ! text_field ! *
+random_x_placement = false ! * ! combo_box ! true | false
+random_y_placement = false ! * ! combo_box ! true | false
+color = random ! * ! combo_box ! red | white | blue | random
